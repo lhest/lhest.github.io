@@ -1,0 +1,32 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  background-image: url(sharon-mccutcheon-571408-unsplash.jpg);
+  background-size: cover;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+h1 {
+  text-align: center;
+  margin: 20px;
+  font-weight: 800;
+  color: #15606D;
+}
+#mc_embed_signup {
+  clear:center; 
+  font:16px Geneva; 
+}
+.clear {
+  text-align: center;
+}
+
+.t_box {
+  margin-top: 100px;
+}
+
+.t_box:hover {
+  transform: scale(1.1)
+}
